@@ -6,6 +6,7 @@ stone >= 2
 ply
 pytest
 pytest-runner
-sphinx
+# sphinx
 twine
 wheel
+setuptools
